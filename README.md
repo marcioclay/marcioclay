@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Márcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Márcio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcio-Java" height="30" width="40" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
+  <img align="center" alt="Marcio-Java" height="30" width="40" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 </div>
   
   ##
