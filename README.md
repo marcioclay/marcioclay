@@ -1,4 +1,29 @@
-<!-- ### Hi there 👋
+# Olá Mundo 👋
+<!--![Profile views](https://komarev.com/ghpvc/?username=marcioclay&color=red) -->
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="350" align="right"/>
+<br><br>
+
+- 👨‍💻 Cursando Mestrado em Computação Aplicada IFES  
+- 🤖 Desenvolvendo projeto de cybersegurança com ebpf/xdp  
+- 🧑🏽‍🏫 Atuando como Professor em cursos técnicos  
+
+
+<br><br><br><br>
+
+
+
+
+---
+<!--
+## 🚀 Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</p>
+
 
 
 **marcioclay/marcioclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +38,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-// https://www.youtube.com/watch?v=ry5CfsVj00s
+ https://www.youtube.com/watch?v=ry5CfsVj00s
 https://www.youtube.com/watch?v=ts-H3W1uLMM
 -->
 
